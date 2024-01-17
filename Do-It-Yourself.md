@@ -1,10 +1,11 @@
 ### For Open Source Project
-- As of now, you can create a issue requesting the API documentation with the repository link.
-- We will create the document, verify, and send you the link.
+- As of now, you can create an issue requesting the API documentation with the repository link.
+- We will create the document, verify it, and send you the link.
 
-We will soon launch a version for anyone to create documentation of open source projects and help the communinity
+We will soon launch a version for anyone to create documentation of open source projects and help the community
 
 ### For Private Repositories
+This CLI is still a work in progress, so you might get issues. Please report them to us and we will fix them on priority
 
 1. **Install the Required Library**
     - Begin by installing the **`knowl_apidocs`** library. Open your command line interface and execute the following command:
