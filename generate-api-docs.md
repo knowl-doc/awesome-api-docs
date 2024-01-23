@@ -1,7 +1,4 @@
 1. **Install the Required Library**
-
-- Open your command line interface and execute the following command
-
 ```
 pip install knowl_apidocs
 ```
@@ -16,11 +13,8 @@ pip install knowl_apidocs
 - In the repository's root directory, create a file named **`.**knowlenv`
 - Add the following lines to your `.knowlenv` file
 ```
-KNOWL_API_KEY=your_knowl_api_key
-OPENAI_API_KEY=your_openai_api_key
-```
-KNOWL_API_KEY=your_knowl_api_key  # if blank or not found then openapi.yaml is generated but not api docs
-OPENAI_API_KEY=your_openai_api_key # default is Knowl’s OpenAI key.
+- KNOWL_API_KEY=your_knowl_api_key  # If blank or not found then openapi.yaml is generated but not api docs
+- OPENAI_API_KEY=your_openai_api_key # default is Knowl’s OpenAI key.
 ```
 - Sign up to [app.knowl.ai](http://app.knowl.ai/) and generate the key `KNOWL_API_KEY`.
 - [Visit your OpenAI](https://platform.openai.com/api-keys) dashboard to create your key  `OPENAI_API_KEY`.
