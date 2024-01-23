@@ -10,7 +10,7 @@ pip install knowl_apidocs
     ```
     
 3. **Setting Up Environment Variables (Optional)**
-- In the repository's root directory, create a file named **`.**knowlenv`
+- In the repository's root directory, create a file named `.knowlenv`
 - Add the following lines to your `.knowlenv` file
 ```
 - KNOWL_API_KEY=your_knowl_api_key  # If blank or not found then openapi.yaml is generated but not api docs
