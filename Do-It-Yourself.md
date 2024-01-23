@@ -1,12 +1,3 @@
-### For Open Source Project
-- As of now, you can create an issue requesting the API documentation with the repository link.
-- We will create the document, verify it, and send you the link.
-
-We will soon launch a version for anyone to create documentation of open source projects and help the community
-
-### For Private Repositories
-This CLI is still a work in progress, so you might get issues. Please report them to us and we will fix them on priority
-
 1. **Install the Required Library**
     - Begin by installing the **`knowl_apidocs`** library. Open your command line interface and execute the following command:
 
@@ -40,7 +31,9 @@ OPENAI_API_KEY=your_openai_api_key
     # This generates an OpenAPI.yaml in your repository's folder.
     # If KNOWL_API_KEY is set in the .knowlenv file, log in to https://www.app.knowl.io to access the complete API documentation.
     ```
-    
+
+    This CLI is still a work in progress, so you might get issues. Please report them to us and we will fix them on priority
+
 5. **Completion of Documentation Generation**
     - The generation of your API documentation may take a few minutes.
     - You will receive an email notification once your API documentation is successfully generated.
