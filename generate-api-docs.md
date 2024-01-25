@@ -1,3 +1,7 @@
+---
+id: generate-docs
+---
+
 1. **Install the Required Library**
 ```
 pip install knowl_apidocs
