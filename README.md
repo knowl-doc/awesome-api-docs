@@ -1,7 +1,3 @@
----
-id: getting-started
----
-
 **About Project**
 
 A list of the latest and accurate API documentation generated with Knowl CLI. We keep adding documentation for more open-source projects every week.
